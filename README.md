@@ -18,7 +18,7 @@ Welcome to the Recipe Sharing App! This web application allows users to view, ad
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/recipe-sharing-app.git
+   git clone https://github.com/mehuljhaver4/recipe-sharing-app.git
 
 2. Install dependencies:
     - Frontend:
